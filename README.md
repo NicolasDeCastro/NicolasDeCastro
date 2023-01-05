@@ -7,7 +7,7 @@ Estou começando no GitHub!! 👋
 - 🌱 Atualmente estudando C ,C++ ,C# e inglês .
 - 👯 Contate-me no Gmail trabalhonicolas854@gmail.com .
 - 💬 Sempre disponivel para aprendizado .
-- 😄 ele/dele...
+- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/NicolasDeCastro">
