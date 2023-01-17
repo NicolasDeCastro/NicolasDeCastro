@@ -9,9 +9,20 @@ Estou começando no GitHub!! 👋
 - 💬 Sempre disponivel para aprendizado .
 - 😄 21 anos!.
 
+  ## Redes sociais!!
+
+- <a href="https://www.linkedin.com/in/nicolas-machado-46578a237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 <div align="center">
   <a href="https://github.com/NicolasDeCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasDeCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+    
+    
+    
+ ## Linguagem que atualmente mais estou praticando!! 😄 
+    
+    
 </div>
  <div style="display: inline_block">
  
@@ -23,7 +34,6 @@ Estou começando no GitHub!! 👋
           
         
           
-          
-   
-  <a href="https://www.linkedin.com/in/nicolas-machado-46578a237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        
+  
   
