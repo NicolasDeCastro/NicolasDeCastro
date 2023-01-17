@@ -1,4 +1,4 @@
-### Olá, eu sou Nicolas
+### Olá, Eu sou Nicolas ###
 Estou começando no GitHub!! 👋
 
 
@@ -7,7 +7,7 @@ Estou começando no GitHub!! 👋
 - 🌱 Atualmente estudando C ,C++ ,C#,PHP e inglês .
 - 👯 Contate-me no Gmail trabalhonicolas854@gmail.com .
 - 💬 Sempre disponivel para aprendizado .
-- 😄 ele/dele
+- 😄 21 anos!.
 
 <div align="center">
   <a href="https://github.com/NicolasDeCastro">
